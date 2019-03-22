@@ -1,4 +1,4 @@
-# NLP_work
+# NLP
 自然语言处理与智能搜索
 
 1.entropy
